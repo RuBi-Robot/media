@@ -1,0 +1,35 @@
+# Folders
+/build
+/devel
+/install
+
+# Qt creator
+*.user*
+*.autosave
+
+# Matlab
+*~
+
+# SolidWorks
+~*
+
+*.~lock.*
+
+#Latex
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.fuse*
+report.pdf
+*-blx.bib
+*.fls
+
+#Sublime Text
+*.sublime*
